@@ -1,0 +1,24 @@
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "description": "Serveur Express pour la réception et l’envoi d’e-mails via Nodemailer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "nodemailer", "contact-form", "mail-server", "api"],
+  "author": "Kouadio Aymard KONAN",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3"
+  },
+  "devDependencies": {
+    "typedoc": "^0.28.14"
+  }
+}
