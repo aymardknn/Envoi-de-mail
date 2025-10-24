@@ -32,7 +32,7 @@ npm install
 ```
 ### 3. Lancer le serveur
 ```bash
-npm start
+node index.js
 ```
 Le serveur démarrera par défaut sur le port 9000
 ➡️ URL locale : http://localhost:9000
